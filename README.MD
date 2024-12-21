@@ -59,7 +59,7 @@ Here are some of the standout projects from the journey:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/sameetpatil_5/100-days-python-projects.git
+   git clone https://github.com/sameetpatil5/100-days-python-projects.git
    cd 100-days-python-projects
    ```
 
